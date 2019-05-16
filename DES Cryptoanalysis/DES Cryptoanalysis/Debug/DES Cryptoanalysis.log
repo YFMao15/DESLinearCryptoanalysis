@@ -1,0 +1,9 @@
+﻿  DES CryptoanalysisDlg.cpp
+d:\清华学习\大四下\网络空间安全技术\midterm project\des cryptoanalysis\des cryptoanalysis\linear attack.h(15): warning C4091: 'typedef ': ignored on left of 'Pair' when no variable is declared
+d:\清华学习\大四下\网络空间安全技术\midterm project\des cryptoanalysis\des cryptoanalysis\des cryptoanalysisdlg.h(7): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  d:\清华学习\大四下\网络空间安全技术\midterm project\des cryptoanalysis\des cryptoanalysis\stdafx.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+d:\清华学习\大四下\网络空间安全技术\midterm project\des cryptoanalysis\des cryptoanalysis\des cryptoanalysisdlg.cpp(600): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+d:\清华学习\大四下\网络空间安全技术\midterm project\des cryptoanalysis\des cryptoanalysis\des cryptoanalysisdlg.cpp(623): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+d:\清华学习\大四下\网络空间安全技术\midterm project\des cryptoanalysis\des cryptoanalysis\des cryptoanalysisdlg.cpp(756): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+d:\清华学习\大四下\网络空间安全技术\midterm project\des cryptoanalysis\des cryptoanalysis\des cryptoanalysisdlg.cpp(779): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+  DES Cryptoanalysis.vcxproj -> D:\清华学习\大四下\网络空间安全技术\Midterm Project\DES Cryptoanalysis\Debug\DES Cryptoanalysis.exe
